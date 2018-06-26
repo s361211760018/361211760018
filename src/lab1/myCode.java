@@ -9,12 +9,12 @@ public class myCode {
         System.out.println("จารุวรรณ ปัญญาจุติ");
         System.out.println("361211760018");
         System.out.println("MIT211");
-        System.out.println("RMUTSV");
 
 
 
 
-        
+
+
 
     }//main
 
